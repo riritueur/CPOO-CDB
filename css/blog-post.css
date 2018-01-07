@@ -13,3 +13,14 @@ body {
     padding-top: 56px;
   }
 }
+
+.drive {
+  width: 90%;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 55px;
+  margin-bottom: 55px;
+  border: 8px solid grey;
+}
