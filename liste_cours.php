@@ -27,26 +27,67 @@
         <div class="card mb-4">
           <div class="card-body">
             <h2 class="card-title">Cours 1</h2>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-            <a href="#" class="btn btn-primary">Détails &rarr;</a>
+            <p class="card-text">Rappels : De l'analyse à la conception orientées objets (S3T)</p>
+            <a href="cours/cours_s1.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
           </div>
-          
         </div><!-- Blog Post -->
-        <div class="card mb-4">
+        
+				<div class="card mb-4">
           <div class="card-body">
             <h2 class="card-title">Cours 2</h2>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-            <a href="#" class="btn btn-primary">Détails &rarr;</a>
+            <p class="card-text">Bases de GRASP : COO et responsabilités</p>
+            <a href="cours/cours_s2.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
           </div>
-          
         </div><!-- Blog Post -->
+				
         <div class="card mb-4">
           <div class="card-body">
             <h2 class="card-title">Cours 3</h2>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-            <a href="#" class="btn btn-primary">Détails &rarr;</a>
+            <p class="card-text">Bases de GRASP : COO et responsabilités</p>
+            <a href="cours/cours_s3.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
           </div>
-        </div>
+        </div><!-- Blog Post -->
+				
+				<div class="card mb-4">
+          <div class="card-body">
+            <h2 class="card-title">Cours 4</h2>
+            <p class="card-text">The pragmatic Programmer" et Principes SOLID, principe ouvert/fermé</p>
+            <a href="cours/cours_s4.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
+          </div>
+        </div><!-- Blog Post -->
+				
+				<div class="card mb-4">
+          <div class="card-body">
+            <h2 class="card-title">Cours 5</h2>
+            <p class="card-text">Suite du cours sur "The pragmatic Programmer" et Principes SOLID</p>
+            <a href="cours/cours_s5.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
+          </div>
+        </div><!-- Blog Post -->
+				
+				<div class="card mb-4">
+          <div class="card-body">
+            <h2 class="card-title">Cours 6</h2>
+            <p class="card-text">Art du codage</p>
+            <a href="cours/cours_s6.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
+          </div>
+        </div><!-- Blog Post -->
+				
+				<div class="card mb-4">
+          <div class="card-body">
+            <h2 class="card-title">Cours 7</h2>
+            <p class="card-text">Retours sur les Tds</p>
+            <a href="cours/cours_s7.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
+          </div>
+        </div><!-- Blog Post -->
+				
+				<div class="card mb-4">
+          <div class="card-body">
+            <h2 class="card-title">Cours 8</h2>
+            <p class="card-text">Design Patterns</p>
+            <a href="cours/cours_s8.pdf" target="_blank" class="btn btn-primary">Voir le cours &rarr;</a>
+          </div>
+        </div><!-- Blog Post -->
+				
       </div>
 
       <?php include('./include/sidebar.php'); ?>

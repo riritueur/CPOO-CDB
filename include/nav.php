@@ -15,8 +15,6 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="">TDs</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="liste_tds.php">Liste TDs</a>
-            <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="td1.php">TD1 et TD2 (Bus)</a>
             <a class="dropdown-item" href="td3.php">TD3 (Véhicules)</a>
             <a class="dropdown-item" href="td4.php">TD4 (Voyages)</a>
@@ -30,9 +28,14 @@
           <div class="dropdown-menu">
             <a class="dropdown-item" href="liste_cours.php">Liste Cours</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="">Cours 1</a>
-            <a class="dropdown-item" href="td1.php">Cours 2</a>
-            <a class="dropdown-item" href="td1.php">Cours 3</a>
+            <a class="dropdown-item" href="cours/cours_s1.pdf">Cours 1</a>
+            <a class="dropdown-item" href="cours/cours_s2.pdf">Cours 2</a>
+            <a class="dropdown-item" href="cours/cours_s3.pdf">Cours 3</a>
+						<a class="dropdown-item" href="cours/cours_s4.pdf">Cours 4</a>
+						<a class="dropdown-item" href="cours/cours_s5.pdf">Cours 5</a>
+						<a class="dropdown-item" href="cours/cours_s6.pdf">Cours 6</a>
+						<a class="dropdown-item" href="cours/cours_s7.pdf">Cours 7</a>
+						<a class="dropdown-item" href="cours/cours_s8.pdf">Cours 8</a>
           </div>
         </li>
         <li class="nav-item">

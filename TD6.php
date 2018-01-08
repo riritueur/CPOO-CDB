@@ -29,7 +29,7 @@
         </p>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="ressource/thumbnail_TD6.png" alt="">
+        <img class="img-fluid rounded" width="600px" src="ressource/thumbnail_TD6.png" alt="">
 
         <hr>
 
@@ -38,7 +38,7 @@
         
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
         
-        <iframe src="http://richard-peres.xyz/Carnet_De_Bord/TD1.pdf" class="drive"></iframe>
+        <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td6" class="drive"></iframe>
 
       </div>
 

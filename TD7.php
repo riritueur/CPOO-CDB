@@ -36,17 +36,10 @@
         <!-- Post Content -->
         <p class="lead">Les design patterns sont des outils extrêmement utiles pour concevoir des applications propres. Ce TD se penche sur ce thème par le biais du développement d'une maison numérique.</p>
 
-        <blockquote class="blockquote">
-          <p class="mb-0">Citation intéressante</p>
-          <footer class="blockquote-footer">Richard PERES,
-            <cite title="Source Title">'Ma vie, mon oeuvre'</cite>
-          </footer>
-        </blockquote>
-
         
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
         
-        <iframe src="http://richard-peres.xyz/Carnet_De_Bord/TD1.pdf" class="drive"></iframe>
+        <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td7" class="drive"></iframe>
 
       </div>
 
