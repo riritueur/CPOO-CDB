@@ -4,7 +4,7 @@
 <head>
 
   <?php include('./include/meta.php'); ?>
-  <title>CDBCPOO - TD1</title>
+  <title>CDBCPOO - TD5</title>
 
 </head>
 
@@ -21,20 +21,20 @@
       <div class="col-lg-9">
 
         <!-- Title -->
-        <h1 class="mt-4">TD1</h1>
+        <h1 class="mt-4">TD5</h1>
 
         <!-- Lead -->
         <p class="lead">
-         Titre du TD
+         CyberDojo
         </p>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="ressource/thumbnail_TD5.png" alt="">
 
         <hr>
 
         <!-- Post Content -->
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?</p>
+        <p class="lead">Ce TD un peu différent porte sur l'utilisation de CyberDojo afin de découvrir une manière de coder un peu différente. Nous avons réalisé ce TD en groupe.</p>
 
         <blockquote class="blockquote">
           <p class="mb-0">Citation intéressante</p>

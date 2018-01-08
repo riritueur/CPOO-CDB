@@ -47,7 +47,7 @@
                 <img class="card-img-top" src="ressource/thumbnail_TD3.png" alt="">
                 <div class="card-body">
                   <h4 class="card-title">TD3 - Véhicules</h4>
-                  <p class="card-text">Dans ce TD, nous avons dû créer des véhicules possédant des attributs en commun et répartis en catégories pour aborder les thèmes du polymorphisme et de la composition.</p>
+                  <p class="card-text">Dans ce TD, nous devons créer des véhicules possédant des attributs en commun et répartis en catégories pour aborder les thèmes du polymorphisme et de la composition.</p>
                 </div>
                 <div class="card-footer">
                   <a href="TD3.php" class="btn btn-primary">Voir le TD</a>

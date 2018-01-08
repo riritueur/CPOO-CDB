@@ -4,7 +4,7 @@
 <head>
 
   <?php include('./include/meta.php'); ?>
-  <title>CDBCPOO - TD1</title>
+  <title>CDBCPOO - TD3</title>
 
 </head>
 
@@ -21,20 +21,20 @@
       <div class="col-lg-9">
 
         <!-- Title -->
-        <h1 class="mt-4">TD1</h1>
+        <h1 class="mt-4">TD3</h1>
 
         <!-- Lead -->
         <p class="lead">
-         Titre du TD
+         Véhicules (Polymorphisme et composition)
         </p>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="ressource/thumbnail_TD3.png" alt="">
 
         <hr>
 
         <!-- Post Content -->
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?</p>
+        <p class="lead">Dans ce TD, nous devons créer des véhicules possédant des attributs en commun et répartis en catégories pour aborder les thèmes du polymorphisme et de la composition. Nous avons réalisé ce TD en commun.</p>
 
         <blockquote class="blockquote">
           <p class="mb-0">Citation intéressante</p>

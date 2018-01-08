@@ -4,7 +4,7 @@
 <head>
 
   <?php include('./include/meta.php'); ?>
-  <title>CDBCPOO - TD1</title>
+  <title>CDBCPOO - TD4</title>
 
 </head>
 
@@ -21,28 +21,20 @@
       <div class="col-lg-9">
 
         <!-- Title -->
-        <h1 class="mt-4">TD1</h1>
+        <h1 class="mt-4">TD4</h1>
 
         <!-- Lead -->
         <p class="lead">
-         Titre du TD
+         Voyages (Ouvert/Fermé)
         </p>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="ressource/thumbnail_TD4.png" alt="">
 
         <hr>
 
         <!-- Post Content -->
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?</p>
-
-        <blockquote class="blockquote">
-          <p class="mb-0">Citation intéressante</p>
-          <footer class="blockquote-footer">Richard PERES,
-            <cite title="Source Title">'Ma vie, mon oeuvre'</cite>
-          </footer>
-        </blockquote>
-
+        <p class="lead">Ce TD consiste à récupérer du code déjà écrit et à le modifier pour ajouter de nouvelles fonctionnalités. Cela permet d'aborder le principe ouvert/fermé. Nous avons réalisé ce TD en commun.</p>
         
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
         

@@ -4,7 +4,7 @@
 <head>
 
   <?php include('./include/meta.php'); ?>
-  <title>CDBCPOO - TD1</title>
+  <title>CDBCPOO - TD1 et TD2</title>
 
 </head>
 
@@ -21,20 +21,20 @@
       <div class="col-lg-9">
 
         <!-- Title -->
-        <h1 class="mt-4">TD1</h1>
+        <h1 class="mt-4">TD1 et TD2</h1>
 
         <!-- Lead -->
         <p class="lead">
-         Titre du TD
+         Bus de messages (Prise en main de l'environnement de développement et responsabilité)
         </p>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="ressource/thumbnail_TD1.png" alt="">
 
         <hr>
 
         <!-- Post Content -->
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?</p>
+        <p class="lead">Ce TD porte sur la création d'une application de gestion de bus de messages. Dans un premier temps, le TD1 permet de prendre en main l'environnement de développement (Eclipse) et de concevoir l'application, et le TD2 aborde le thème de la responsabilité grâce au développement de la partie métier de l'application.</br>Nous avons réalisé ce TD séparément.</p>
 
         <blockquote class="blockquote">
           <p class="mb-0">Citation intéressante</p>
