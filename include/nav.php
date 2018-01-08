@@ -17,9 +17,12 @@
           <div class="dropdown-menu">
             <a class="dropdown-item" href="liste_tds.php">Liste TDs</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="td1.php">TD1</a>
-            <a class="dropdown-item" href="td1.php">TD2</a>
-            <a class="dropdown-item" href="td1.php">TD3</a>
+            <a class="dropdown-item" href="td1.php">TD1 et TD2 (Bus)</a>
+            <a class="dropdown-item" href="td3.php">TD3 (Véhicules)</a>
+            <a class="dropdown-item" href="td4.php">TD4 (Voyages)</a>
+						<a class="dropdown-item" href="td5.php">TD5 (CyberDojo)</a>
+						<a class="dropdown-item" href="td6.php">TD6 (Réseau social)</a>
+						<a class="dropdown-item" href="td7.php">TD7 (Maison numérique)</a>
           </div>
         </li>
         <li class="nav-item dropdown">

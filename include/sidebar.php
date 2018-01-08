@@ -12,7 +12,7 @@
             <li><strong>Liste utiles :</strong></li>
             <ul>
               <li><a href="http://iut.unice.fr/" title="site oficiel" target="_blank">Site de l'IUT</a></li>
-              <li><a href="http://mbf-iut.i3s.unice.fr/doku.php?id=2016_2017:s2:start" target="_blank">Site mbf i3s</a></li>
+              <li><a href="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:start" target="_blank">Site mbf i3s</a></li>
               <li><a href="https://www.modelio.org/" target="_blank">Modelio</a></li>
               <li><a href="https://www.gliffy.com/" target="_blank">Gliffy</a></li>
             </ul>
