@@ -36,7 +36,7 @@
         <!-- Post Content -->
         <p class="lead">Ce TD consiste à récupérer du code déjà écrit et à le modifier pour ajouter de nouvelles fonctionnalités. Cela permet d'aborder le principe ouvert/fermé. Nous avons réalisé ce TD en commun.</p>
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
+        <p></p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td5" class="drive"></iframe>
 

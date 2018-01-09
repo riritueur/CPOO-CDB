@@ -15,12 +15,12 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="">TDs</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="td1.php">TD1 et TD2 (Bus)</a>
-            <a class="dropdown-item" href="td3.php">TD3 (Véhicules)</a>
-            <a class="dropdown-item" href="td4.php">TD4 (Voyages)</a>
-						<a class="dropdown-item" href="td5.php">TD5 (CyberDojo)</a>
-						<a class="dropdown-item" href="td6.php">TD6 (Réseau social)</a>
-						<a class="dropdown-item" href="td7.php">TD7 (Maison numérique)</a>
+            <a class="dropdown-item" href="TD1.php">TD1 et TD2 (Bus)</a>
+            <a class="dropdown-item" href="TD3.php">TD3 (Véhicules)</a>
+            <a class="dropdown-item" href="TD4.php">TD4 (Voyages)</a>
+						<a class="dropdown-item" href="TD5.php">TD5 (CyberDojo)</a>
+						<a class="dropdown-item" href="TD6.php">TD6 (Réseau social)</a>
+						<a class="dropdown-item" href="TD7.php">TD7 (Maison numérique)</a>
           </div>
         </li>
         <li class="nav-item dropdown">

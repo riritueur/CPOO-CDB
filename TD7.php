@@ -37,7 +37,7 @@
         <p class="lead">Les design patterns sont des outils extrêmement utiles pour concevoir des applications propres. Ce TD se penche sur ce thème par le biais du développement d'une maison numérique.</p>
 
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
+        <p></p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td7" class="drive"></iframe>
 

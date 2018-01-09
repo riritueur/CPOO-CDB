@@ -36,7 +36,7 @@
         <!-- Post Content -->
         <p class="lead">La réutilisation de code est un thème très important pour les développeurs, et c'est celui abordé dans ce TD. Nous l'avons réalisé en commun.</p>
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
+        <p></p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td6" class="drive"></iframe>
 
