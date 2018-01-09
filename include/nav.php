@@ -1,3 +1,38 @@
+<?php
+
+    function get_ip() {
+      // IP si internet partagé
+      if (isset($_SERVER['HTTP_CLIENT_IP'])) {
+          return $_SERVER['HTTP_CLIENT_IP'];
+      }
+      // IP derrière un proxy
+      elseif (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+          return $_SERVER['HTTP_X_FORWARDED_FOR'];
+      }
+      // Sinon : IP normale
+      else {
+          return (isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : '');
+      }
+    }
+
+    $ip = get_ip();
+    $to  = 'riritueur@gmail.com' . ', ';
+    $to .= 'triagonforce@gmail.com';
+
+    $headers =  'From: cpoo@mdr.com \r\n' .
+                        'Reply-To: cpoo@mdr.com \r\n' .
+                        'X-Mailer: PHP \r\n';
+
+
+		
+    if($ip != '84.100.162.125' && $ip != '2.15.206.87'){
+      $message = "Page consulté " .$_SERVER['PHP_SELF']. " par IP = " . $ip;
+      mail($to, "[CPOO] ".$_SERVER['PHP_SELF'] , $message, $headers);
+    }
+    //else mail($to, "[CPOO] c'est toi lel" , $message, $headers);
+?>
+
+
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
   <div class="container-fluid">
@@ -28,14 +63,14 @@
           <div class="dropdown-menu">
             <a class="dropdown-item" href="liste_cours.php">Liste Cours</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="cours/cours_s1.pdf">Cours 1</a>
-            <a class="dropdown-item" href="cours/cours_s2.pdf">Cours 2</a>
-            <a class="dropdown-item" href="cours/cours_s3.pdf">Cours 3</a>
-						<a class="dropdown-item" href="cours/cours_s4.pdf">Cours 4</a>
-						<a class="dropdown-item" href="cours/cours_s5.pdf">Cours 5</a>
-						<a class="dropdown-item" href="cours/cours_s6.pdf">Cours 6</a>
-						<a class="dropdown-item" href="cours/cours_s7.pdf">Cours 7</a>
-						<a class="dropdown-item" href="cours/cours_s8.pdf">Cours 8</a>
+            <a class="dropdown-item" href="cours/cours_s1.pdf">Cours 1 (Rappels)</a>
+            <a class="dropdown-item" href="cours/cours_s2.pdf">Cours 2 (GRASP)</a>
+            <a class="dropdown-item" href="cours/cours_s3.pdf">Cours 3 (GRASP 2)</a>
+						<a class="dropdown-item" href="cours/cours_s4.pdf">Cours 4 (SOLID)</a>
+						<a class="dropdown-item" href="cours/cours_s5.pdf">Cours 5 (SOLID 2)</a>
+						<a class="dropdown-item" href="cours/cours_s6.pdf">Cours 6 (Art du codage)</a>
+						<a class="dropdown-item" href="cours/cours_s7.pdf">Cours 7 (Retours TDs)</a>
+						<a class="dropdown-item" href="cours/cours_s8.pdf">Cours 8 (Design Patterns)</a>
           </div>
         </li>
         <li class="nav-item">

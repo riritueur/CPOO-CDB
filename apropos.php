@@ -27,7 +27,7 @@
 				<h2 class="my-4">Qui sommes-nous?</h2>
 				<p>François Rigaut, étudiant en DUT Informatique à Nice, ayant suivi une filière S avec spécialité Mathématiques au lycée.<br/>
 				<br/>
-				Richard Peres, a effectué un Bac Scientifique option ISN au lycée Guillaume Apollinaire à Nice, mention Assez Bien. Actuellement étudiant en DUT Informatique à l'IUT Nice Sophia-Antipolis (Fabron), il se classe parmis les 10 premiers sur les matières informatiques.</p>
+				Richard Peres, a effectué un Bac Scientifique option ISN au lycée Guillaume Apollinaire à Nice. N'hésitez pas à consulter mon profil <a href="http://richard-peres.xyz">ici.</a></p>
 				
 				<h2 class="my-4">Crédits</h2>
 				<p>Ce carnet de bord a été réalisé dans son intégralité par Richard PERES et François RIGAUT dans le cadre du module de Conception et Programmation Orientée Objet du DUT Informatique (troisième semestre).<br/>
