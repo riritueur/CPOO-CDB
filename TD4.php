@@ -29,7 +29,7 @@
         </p>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="ressource/thumbnail_TD4.png" alt="">
+        <img class="img-fluid rounded" width="600px" src="ressource/thumbnail_TD4.png" alt="">
 
         <hr>
 
