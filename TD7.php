@@ -34,10 +34,10 @@
         <hr>
 
         <!-- Post Content -->
-        <p class="lead">Les design patterns sont des outils extrêmement utiles pour concevoir des applications propres. Ce TD se penche sur ce thème par le biais du développement d'une maison numérique.</p>
+        <p class="lead">Les design patterns sont des outils extrêmement utiles pour concevoir des applications propres. Ce TD se penche sur ce thème par le biais du développement d'une maison numérique. Nous l'avons réalisé en commun.</p>
 
         
-        <p></p>
+        <p>Vous pouvez télécharger notre TD <a href="ressource/CPOO%20TD7%20-%20PERES%20-%20RIGAUT%20-%20G2.zip">ici</a>.</p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td7" class="drive"></iframe>
 

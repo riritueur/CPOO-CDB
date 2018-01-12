@@ -36,15 +36,8 @@
         <!-- Post Content -->
         <p class="lead">Ce TD porte sur la création d'une application de gestion de bus de messages. Dans un premier temps, le TD1 permet de prendre en main l'environnement de développement (Eclipse) et de concevoir l'application, et le TD2 aborde le thème de la responsabilité grâce au développement de la partie métier de l'application.</br>Nous avons réalisé ce TD séparément.</p>
 
-        <blockquote class="blockquote">
-          <p class="mb-0">Citation intéressante</p>
-          <footer class="blockquote-footer">Richard PERES,
-            <cite title="Source Title">'Ma vie, mon oeuvre'</cite>
-          </footer>
-        </blockquote>
-
         
-        <p></p>
+        <p>Vous pouvez téléharger la version de <a href="ressource/TD2%20-%20BUS%20-%20Rigaut%20Francois.zip">François</a> ou celle de <a href="ressource/CPOO%20TD7%20-%20PERES%20-%20RIGAUT%20-%20G2.zip">Richard</a>.</p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td2" class="drive"></iframe>
 

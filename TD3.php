@@ -37,7 +37,7 @@
         <p class="lead">Dans ce TD, nous devons créer des véhicules possédant des attributs en commun et répartis en catégories pour aborder les thèmes du polymorphisme et de la composition. Nous avons réalisé ce TD en commun.</p>
 
         
-        <p></p>
+        <p>Vous pouvez télécharger notre TD <a href="ressource/TD3%20PERES%20-%20RIGAUT%20-final%20ver..zip">ici</a>.</p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td3" class="drive"></iframe>
 

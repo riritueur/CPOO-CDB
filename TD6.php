@@ -36,7 +36,7 @@
         <!-- Post Content -->
         <p class="lead">La réutilisation de code est un thème très important pour les développeurs, et c'est celui abordé dans ce TD. Nous l'avons réalisé en commun.</p>
         
-        <p></p>
+        <p>Vous pouvez télécharger notre TD <a href="ressource/Gr2%20-%20PERES%20Richard%20-%20RIGAUT%20Francois%20-%20TD6.zip">ici</a>.</p>
         
         <iframe src="http://mbf-iut.i3s.unice.fr/doku.php?id=2017_2018:s3:concprogobjet:td:td6" class="drive"></iframe>
 

@@ -35,8 +35,6 @@
 
         <!-- Post Content -->
         <p class="lead">Ce TD un peu différent porte sur l'utilisation de CyberDojo afin de découvrir une manière de coder un peu différente. Nous avons réalisé ce TD en groupe.</p>
-
-
         
         <p></p>
         

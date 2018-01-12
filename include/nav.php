@@ -47,6 +47,10 @@
                 <span class="sr-only">(current)</span>
               </a>
         </li>
+				<li class="nav-item active">
+          <a class="nav-link" href="aretenir.php">À retenir
+              </a>
+        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="">TDs</a>
           <div class="dropdown-menu">
@@ -63,14 +67,14 @@
           <div class="dropdown-menu">
             <a class="dropdown-item" href="liste_cours.php">Liste Cours</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="cours/cours_s1.pdf">Cours 1 (Rappels)</a>
-            <a class="dropdown-item" href="cours/cours_s2.pdf">Cours 2 (GRASP)</a>
-            <a class="dropdown-item" href="cours/cours_s3.pdf">Cours 3 (GRASP 2)</a>
-						<a class="dropdown-item" href="cours/cours_s4.pdf">Cours 4 (SOLID)</a>
-						<a class="dropdown-item" href="cours/cours_s5.pdf">Cours 5 (SOLID 2)</a>
-						<a class="dropdown-item" href="cours/cours_s6.pdf">Cours 6 (Art du codage)</a>
-						<a class="dropdown-item" href="cours/cours_s7.pdf">Cours 7 (Retours TDs)</a>
-						<a class="dropdown-item" href="cours/cours_s8.pdf">Cours 8 (Design Patterns)</a>
+            <a class="dropdown-item" target="_blank" href="cours/cours_s1.pdf">Cours 1 (Rappels)</a>
+            <a class="dropdown-item" target="_blank" href="cours/cours_s2.pdf">Cours 2 (GRASP)</a>
+            <a class="dropdown-item" target="_blank" href="cours/cours_s3.pdf">Cours 3 (GRASP 2)</a>
+						<a class="dropdown-item" target="_blank" href="cours/cours_s4.pdf">Cours 4 (SOLID)</a>
+						<a class="dropdown-item" target="_blank" href="cours/cours_s5.pdf">Cours 5 (SOLID 2)</a>
+						<a class="dropdown-item" target="_blank" href="cours/cours_s6.pdf">Cours 6 (Art du codage)</a>
+						<a class="dropdown-item" target="_blank" href="cours/cours_s7.pdf">Cours 7 (Retours TDs)</a>
+						<a class="dropdown-item" target="_blank" href="cours/cours_s8.pdf">Cours 8 (Design Patterns)</a>
           </div>
         </li>
         <li class="nav-item">
