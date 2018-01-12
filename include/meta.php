@@ -2,7 +2,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="shortcut icon" href="http://katsudodm.richard-peres.xyz/ressource/image/DM_logo.png" />
+<link rel="shortcut icon" href="ressource/icon.png" />
 
 
 <meta name="author" content="Richard Peres & François RIGAUT" />
@@ -12,7 +12,7 @@
 <meta property="og:site_name" content="CPOOCDB" />
 <meta property="og:url" content="http://cpoocdb.richard-peres.xyz" />
 <meta property="og:title" content="CPOOCDB" />
-<meta property="og:image" content="http://cpoocdb.richard-peres.xyz/ressource/image/DM_logo.png" />
+<meta property="og:image" content="ressource/icon.png" />
 <meta property="og:description" content="Retrouvez un guide complet des cours et TDs de CPOO réalisés lors du semestre 3 du DUT Informatique à l'UNS en 2017" />
 
 <!-- Bootstrap core CSS -->
